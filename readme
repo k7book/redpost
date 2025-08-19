@@ -1,0 +1,265 @@
+관리사이트
+    원스탑 
+        https://onestop.im/rpadm/
+        ID : k7book
+        비번 : 017290
+
+    레드포스트
+        https://redpost.shop/rpadm/
+        ID : k7book
+        비번 : 017290
+
+업무관련
+    하이웍스
+        https://office.hiworks.com/redpost.kr
+        book
+
+    윈도우즈 정품키
+        7N8W9-J49VY-VJY3C-MHDV7-KHJXG
+
+피그마
+    https://www.figma.com/design/719rx5r5wjEceiIWA0PzVG/-%EC%B5%9C%EC%A2%85%EB%B3%B8--%EB%A0%88%EB%93%9C%ED%8F%AC%EC%8A%A4%ED%8A%B8_250604_v1.4?node-id=242-10773
+
+피그마 
+    https://www.figma.com/design/719rx5r5wjEceiIWA0PzVG/-%EC%B5%9C%EC%A2%85%EB%B3%B8--%EB%A0%88%EB%93%9C%ED%8F%AC%EC%8A%A4%ED%8A%B8_250604_v1.4?node-id=242-10773&t=9It5zBEBkSLRRiWR-0
+
+경쟁사
+    슈퍼레이블 https://super-label.com/
+    CN인사이더 https://www.cninsider.co.kr/mall/#/
+
+개발페이지
+    http://redpost.izsolution.co.kr/
+        아이디/암호 : van0811
+        암호 : e6i34vaa
+
+피그마 
+    redpostshop@gmail.com
+    비번 :redpost123
+
+
+이지 개발진행 사항
+    http://redpost.izsolution.co.kr/front/mall/prolist.asp
+
+http://izsolution.co.kr/work/Login.asp
+
+퍼블리싱 현황
+    http://anmoksoft.com/client/2025/redpost/Front/status.html
+
+요청한대로 잘 개발되고 있는지 확인해야 합니다~
+
+레드포스트  www.redpost.kr
+    원스탑  www.onestop.im
+
+redpostshop
+
+TT송금
+    구매자가 은행에서 직접 외화를 송금해 결제하는 방식
+
+
+* 레드포스트 개발 사이트
+    - 서버 137번
+    - 디렉토리 : redpost2025
+    - 도메인 : redpost.izsolution.co.kr
+
+https://www.cninsider.co.kr
+ID: zlenak
+PW : as123456
+
+
+* 퍼블리싱 소스 디렉토리 : /PUB
+* 1688 API 외부개발 디렉토리 :/1688
+
+8월29일(금): 개발 베타 완료
+9월1일(월)~9월5일(금): 테스트 및 수정
+9월8일(월)~9월9일(화): 최종 오픈준비
+9월10일(수): 레드포스트 2025 리뉴얼 오픈
+
+1. 사업/기획: 화면목록 정리 (구글시트 예정)
+2. 피그마 디자인 화면목록 대로 재조정 
+3. 퍼블리싱 파일 화면목록 대로 재정리
+4. (퍼블리싱 파일 기반으로) 개발 예정 시작일/완료일 받기
+
+1688 BEST
+KC 인증상품
+오늘의 특가
+수출 상품
+Only 레드포스트
+지금 가장 핫한 상품
+
+API 설명리스트
+https://open.1688.com/solution/solutionDetail.htm?solutionKey=1697014160788#apiAndMessageList
+
+
+https://docs.google.com/spreadsheets/d/1qobqQxLBHcL1B_tcC6eA3_KidwQ57-D-uT0m_F8Zeqc/edit?usp=sharing
+
+1. 우선 디자인 피그마 파일을 목록처럼 재정리 가능 하신가요?
+2. 화면ID 개념으로 각화면에 넣어주셨으면 합니다.
+3. 개발 및 테스트 할 때 ID 기반으로 하려고 합니다.
+
+
+이용안내 			비용안내 	Page 	guide_price 		완료
+	이용안내 			부가서비스 안내 		guide_service 		          완료
+	이용안내 			구매대행 안내 	Page 	guide_purchase_agent 		완료
+	이용안내 			배송대행 안내 	Page 	guide_delivery_agent 		완료
+	이용안내 			TT송금 절차 	Page 	guide_tt
+
+
+
+
+퍼블 http://anmoksoft.com/client/2025/redpost/Front/Page/
+
+guide_service 		
+guide_purchase_agent
+guide_delivery_agent
+guide_tt
+
+http://redpost.izsolution.co.kr/Front/Page/UserPage.asp?gMnu1=201&gMnu2=20104
+
+
+공지사항		공지사항 목록	Board/notice_list
+공지사항		공지사항 상세	Board/notice_view
+공지사항		공지사항 관련 모달	Board/notice_modal
+자주하는 질문		자주하는 질문 목록	Board/faq_list
+자주하는 질문		자주하는 질문 상세	Board/faq_view
+1:1 문의		1:1 문의 목록	Board/qa_list
+1:1 문의		1:1 문의 상세	Board/qa_view
+1:1 문의		1:1 문의 작성	Board/qa_write
+받은 쪽지함		받은 쪽지함 목록	Board/note_list
+받은 쪽지함		받은 쪽지함 관련 모달	Board/note_modal
+갤러리		갤러리 목록	Board/gallery_list
+갤러리		갤러리 상세	Board/gallery_view
+.
+
+Board/notice_list
+Board/notice_view
+Board/notice_modal
+Board/faq_list
+Board/faq_view
+Board/qa_list
+Board/qa_view
+Board/qa_write
+Board/note_list
+Board/note_modal
+Board/gallery_list
+Board/gallery_view
+
+http://redpost.izsolution.co.kr/Front/Board/Bbs_S.asp?gMnu1=205&gMnu2=20501&sBB_CODE=1
+http://redpost.izsolution.co.kr/Front/Board/Bbs_S.asp?gMnu1=205&gMnu2=20503&sBB_CODE=3
+http://redpost.izsolution.co.kr/Front/Board/Bbs_S.asp?gMnu1=205&gMnu2=20515&sBB_CODE=29
+
+Board/market_research_list
+Board/market_research_write
+Board/market_research_view
+Board/market_research_modal
+
+
+2Depth 	3Depth 	4Depth 	명칭 	경로 	URL 	비고 	상태
+멤버십 	회원가입 		약관동의 	Join 	register_agree 		완료
+멤버십 	회원가입 		회원정보입력 	Join 	register_write 		완료
+멤버십 	회원가입 		사업자인증 	Join 	register_file 		완료
+멤버십 			계정찾기 	Join 	find 		완료
+멤버십 			관련 모달 	Join 	modal	
+
+1688 페이지
+https://aibuy.1688.com/landingpage?bizType=purchasingAgent&customerId=redpost
+
+박스사이즈
+사이즈
+로고여부
+패키지구성
+단가
+무게
+
+https://login.taobao.com/?redirect_url=https%3A%2F%2Flogin.1688.com%2Fmember%2Fjump.htm%3Ftarget%3Dhttps%253A%252F%252Flogin.1688.com%252Fmember%252FmarketSigninJump.htm%253FDone%253Dhttps%25253A%25252F%25252Fopen.1688.com%25252Fdevelop%25252Fapp%25252Fdetail%25253Fspm%25253Da260s.develop-app-list.0.0.44fc55ed1cy5Q5%252526appkey%25253D5845561%252526appKey%25253D5845561&style=tao_custom&from=1688web
+ID: redpostshopweihai
+비번: josunmi6688
+
+==================================================
+ 사용 시 주의사항
+✅ 32비트 전용	CAPICOM은 32비트 COM DLL입니다. IIS Application Pool을 32비트 모드로 설정해야 작동합니다.
+⛔ 지원 종료	Microsoft는 CAPICOM을 더 이상 지원하지 않으며, 보안 업데이트도 없습니다.
+🧩 DLL 등록 필수	서버에 capicom.dll 설치 및 regsvr32로 등록 필요
+🔒 보안 문제	SHA1, MD5 같은 구식 알고리즘만 지원할 수 있어 보안상 위험
+🌐 브라우저 클라이언트 사용 불가	CAPICOM은 원래 ActiveX로도 쓰였으나, 브라우저에서 ActiveX는 이제 차단됨
+🛠️ 시스템 구성 요건
+    Windows Server (가능한 Windows Server 2012 이하가 안정)
+    IIS에서 ASP 기능 활성화
+    App Pool 32bit 활성화:
+    Application Pool > Advanced Settings > Enable 32-Bit Applications = True
+    CAPICOM 설치 및 등록:
+
+==================================================
+설치 방법 (64비트 Windows Server 환경 기준)
+
+1. Softpedia 또는 GitHub에서 CAPICOM SDK를 다운로드합니다.
+    https://www.softpedia.com/get/Programming/SDK-DDK/CAPICOM-SDK.shtml
+
+2. 설치 후, capicom.dll 파일을 다음 경로로 복사합니다:
+    C:\Windows\SysWOW64
+
+3. 관리자 권한으로 명령 프롬프트를 열고 다음 명령어 실행:
+    regsvr32 %windir%\SysWOW64\capicom.dll
+
+64비트 서버라 위 1~3번 순서로 해야 한다고 합니다.
+이지대표님 설치 부탁드려요.
+
+
+
+http://anmoksoft.com/client/2025/redpost/Front/Board/market_research_view.html
+
+3. 추천 방향
+항목	권장도	이유
+
+1. .NET COM DLL 사용	⭐⭐⭐⭐☆	빠르고 로컬 처리, 단 보안 패치나 배포에 주의 필요
+2. 외부 시그니처 API	⭐⭐⭐⭐⭐	완전히 ASP 외부에서 처리 → 유연성, 유지보수 우수
+3. VBScript 자체 구현	⭐☆☆☆☆	구현 복잡, 성능 문제, 보안 이슈 많아 비추천
+
+=======================================================
+안녕하세요. 레드포스트입니다.
+
+중국 1688 공식 api 연동솔루션을 구매하고자 합니다.
+
+* 구매 원하는 솔루션 타입
+1번 타입으로 신청서 기반 배송대행 + 구매 대행을 해 주는 서비스 형태. (배대지를 운영하시는 사업자)
+
+* 기획+디자인 - 커스터마이징 하고자 하는 레드포스트 디자인
+https://www.figma.com/design/719rx5r5wjEceiIWA0PzVG/-%EC%B5%9C%EC%A2%85%EB%B3%B8--%EB%A0%88%EB%93%9C%ED%8F%AC%EC%8A%A4%ED%8A%B8_250604_v1.4?node-id=89-3154&p=f&t=7MWDF5npVgN77q9n-0
+
+* 구축하고자 하는 레드포스트 사이트맵
+https://docs.google.com/spreadsheets/d/1qobqQxLBHcL1B_tcC6eA3_KidwQ57-D-uT0m_F8Zeqc/edit?usp=sharing
+
+위 내용대로 구축했을 때 
+기간, 비용 문의 드립니다.
+
+그리고 관리자 페이지도 체험할 수 있는지요?
+확인 부탁드립니다.
+
+고맙습니다.
+
+
+http://anmoksoft.com/client/2025/redpost/Front/Mall/mypage_product_01.html
+
+===========================================
+1. 기존 서버시스템과 Classic asp는 현재로선 한계가 많다.
+2. 이지솔루션에서 제공하는 방법도 이미 해본 여러가지 테스트중 하나며 해결이 안되고 있다.
+3. 이번에 1688 api 연결이 성공하더라도 추후에 문제가 생길 여지가 많다.
+4. 나는 api 전문가로 조언을 드리는 바다.
+
+
+1. 처음 api 개발당시에 js에 서버스펙과 언어를 전달함
+2. 그때 js 개발자가 개발가능하다고 함
+3. 지금와서 Classic asp 개발이 안되네?라고 하면 이지솔루션 입장에서는 황당함
+4. api 때문에 닷넷시스템 혹은 다른 시스템 구축 등 제3의 방법은 js에서 해야 함
+5. js와 계약을 종료하고 크몽에 연락하여 조치를 취해야 하다고 생각함
+
+--------------------------------
+1. 이지개발사를 이용한다
+- 느리고 오래되서 이후 변수가 많을 수 있다.
+- 익숙하고 비용, 금액비교
+
+2. 자체개발
+- 장점: 사업의 방향에 맞게 빠르게 개발 가능
+- 유지보수가 편함
+- 개발비용이 
+
+3. 기타 임대형
