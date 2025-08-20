@@ -1,3 +1,35 @@
+# Welcome to Remix + Vite!
+
+📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/guides/vite) for details on supported features.
+
+## Development
+
+Run the Vite dev server:
+
+```
+npm run dev
+```
+
+## Deployment
+
+First, build your app for production:
+
+```
+npm run build
+```
+
+Then run the app in production mode:
+
+```
+npm start
+```
+
+Now you'll need to pick a host to deploy it to.
+
+### DIY
+
+If you're familiar with deploying Node applications, the built-in Remix app server is production-ready.
+
 관리사이트
     원스탑 
         https://onestop.im/rpadm/
@@ -276,4 +308,5 @@ http://anmoksoft.com/client/2025/redpost/Front/Mall/mypage_product_01.html
     비번: redpost123
 
 off 먀뉴얼
+
 https://manual.off.co.kr/ko/cat2/agency/
