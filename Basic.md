@@ -1,17 +1,17 @@
 # Welcome to Redpost
-## 환경
-### 관리사이트
-#### 원스탑 
-        https://onestop.im/rpadm/
-        ID : k7book
-        비번 : 017290
+	## 환경
+	### 관리사이트
+	#### 원스탑 
+	        https://onestop.im/rpadm/
+	        ID : k7book
+	        비번 : 017290
+	
+	#### 레드포스트
+	        https://redpost.shop/rpadm/
+	        ID : k7book
+	        비번 : 017290
 
-    레드포스트
-        https://redpost.shop/rpadm/
-        ID : k7book
-        비번 : 017290
-
-업무관련
+### 업무관련
     하이웍스
         https://office.hiworks.com/redpost.kr
         book
@@ -307,5 +307,6 @@ http://anmoksoft.com/client/2025/redpost/Front/Mall/mypage_product_01.html
 off 먀뉴얼
 
 https://manual.off.co.kr/ko/cat2/agency/
+
 
 
