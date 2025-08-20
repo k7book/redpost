@@ -1,9 +1,23 @@
-# Welcome to Remix + Vite!
+# Welcome to Redpost
+## 환경
+### 관리사이트
+#### 원스탑 
+        https://onestop.im/rpadm/
+        ID : k7book
+        비번 : 017290
 
-레드포스트
+    레드포스트
+        https://redpost.shop/rpadm/
+        ID : k7book
+        비번 : 017290
 
-## Development
+업무관련
+    하이웍스
+        https://office.hiworks.com/redpost.kr
+        book
 
+    윈도우즈 정품키
+        7N8W9-J49VY-VJY3C-MHDV7-KHJXG
 Run the Vite dev server:
 
 ```
@@ -30,24 +44,7 @@ Now you'll need to pick a host to deploy it to.
 
 If you're familiar with deploying Node applications, the built-in Remix app server is production-ready.
 
-관리사이트
-    원스탑 
-        https://onestop.im/rpadm/
-        ID : k7book
-        비번 : 017290
 
-    레드포스트
-        https://redpost.shop/rpadm/
-        ID : k7book
-        비번 : 017290
-
-업무관련
-    하이웍스
-        https://office.hiworks.com/redpost.kr
-        book
-
-    윈도우즈 정품키
-        7N8W9-J49VY-VJY3C-MHDV7-KHJXG
 
 피그마
     https://www.figma.com/design/719rx5r5wjEceiIWA0PzVG/-%EC%B5%9C%EC%A2%85%EB%B3%B8--%EB%A0%88%EB%93%9C%ED%8F%AC%EC%8A%A4%ED%8A%B8_250604_v1.4?node-id=242-10773
@@ -310,4 +307,5 @@ http://anmoksoft.com/client/2025/redpost/Front/Mall/mypage_product_01.html
 off 먀뉴얼
 
 https://manual.off.co.kr/ko/cat2/agency/
+
 
